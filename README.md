@@ -6,11 +6,11 @@
 <h1 align="center">Hi there! 👋🏽 I'm Ayush</h1>
 <h3 align="center">An aspiring Data Analyst👨🏽‍💻, ready to amaze you with valuable insights.</h3>
 
-- 🔭 I’m currently working in **Cognizant**
+- 🔭 Currently working in **Cognizant**
 
-- 🌱 I’m currently learning **Data Analytics tools and technologies**
+- 🌱 Currently learning **Data Analytics tools and technologies**
 
-- 👯 I’m looking to collaborate on **Data Analysts**
+- 👯 Looking to collaborate on **Data Analysts**
 
 - 📫 How to reach me **ayushsingh77777796@gmail.com**
 
