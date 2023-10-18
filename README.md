@@ -1,4 +1,5 @@
-[![AYUSH SINGH Banner Image](https://i.imgur.com/example.png)](https://github.com/AyushSingh9054)
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner (4)](https://github.com/ayushsingh7777/ayushsingh7777/assets/68181799/cf26d9c5-be3d-4f36-95c3-dd41f41f48ac)
+
 
 
 
