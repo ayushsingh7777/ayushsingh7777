@@ -1,7 +1,7 @@
 
 
-# Ayush's Data Analyst Portfolio
-<h1 align="center">Hi there! 👋🏽 I'm Jeffrey</h1>
+
+<h1 align="center">Hi there! 👋🏽 I'm Ayush</h1>
 <h3 align="center">An aspiring Data Analyst👨🏽‍💻, ready to amaze you with valuable insights.</h3>
 
 - 🔭 I’m currently working in **Cognizant**
