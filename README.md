@@ -43,7 +43,8 @@
 
 ## Projects 📈
 
-
+### SQL-based Projects
+- [Danny's Diner SQL Project](https://github.com/ayushsingh7777/Data-Analysis/tree/main/SQL/SQL%20Project)
 
 
 
