@@ -44,17 +44,18 @@
 ## Projects 📈
 
 ### SQL-based Projects
-- Danny's Diner Data Analysis [Danny's Diner SQL Project](https://github.com/ayushsingh7777/Data-Analysis/tree/main/SQL/SQL%20Project) 
-  [Completed Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7121514032905265152/)
+- Danny's Diner Data Analysis
+- [Danny's Diner SQL Project](https://github.com/ayushsingh7777/Data-Analysis/tree/main/SQL/SQL%20Project)
+- [Completed Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7121514032905265152/)
   
 - Marking Insights For CodeX
-  [Marking Insights For CodeX Beverage Company](https://github.com/ayushsingh7777/Data-Analysis/blob/main/SQL/CodeX%20business%20Solution%20(SQL)/CodeX%20Market%20Analysis%20Readme.md)
+- [Marking Insights For CodeX Beverage Company](https://github.com/ayushsingh7777/Data-Analysis/blob/main/SQL/CodeX%20business%20Solution%20(SQL)/CodeX%20Market%20Analysis%20Readme.md)
 
 
 ### Power BI Projects 
 - [Bicyle Sales Analysis
-  [Bicyle Sales Analysis (Dashboard Link)](https://www.novypro.com/project/bicycles-dashboard)
-  [Bicyle Sales Analysis (Project Link)](https://github.com/ayushsingh7777/Data-Analysis/tree/main/Power%20BI/Cycles%20Sales%20Analysis)
+- [Bicyle Sales Analysis (Dashboard Link)](https://www.novypro.com/project/bicycles-dashboard)
+- [Bicyle Sales Analysis (Project Link)](https://github.com/ayushsingh7777/Data-Analysis/tree/main/Power%20BI/Cycles%20Sales%20Analysis)
 
 
 
