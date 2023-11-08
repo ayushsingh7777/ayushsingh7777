@@ -53,6 +53,12 @@
 
 
 ### Power BI Projects 
+
+- CodeX Market Analysis:
+   * [CodeX Market Analysis (Dashboard Link)](https://www.novypro.com/project/codex-market-analysis-report)
+   * [CodeX Market Analysis (Project Link)](https://github.com/ayushsingh7777/Data-Analysis/tree/main/Power%20BI/Code%20Maket%20Analysis)
+
+
 - Bicyle Sales Analysis:
    * [Bicyle Sales Analysis (Dashboard Link)](https://www.novypro.com/project/bicycles-dashboard)
    * [Bicyle Sales Analysis (Project Link)](https://github.com/ayushsingh7777/Data-Analysis/tree/main/Power%20BI/Cycles%20Sales%20Analysis)
