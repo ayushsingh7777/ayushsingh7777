@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **ayushsingh77777796@gmail.com**
 
+- 📄 Resume [updated Resume](https://github.com/ayushsingh7777/Resume) 
+
 - 📄 Know about my experiences [linkedin.com/in/ayushsingh7796](linkedin.com/in/ayushsingh7796)
 
 ## About Me 🙋🏽‍♂️
